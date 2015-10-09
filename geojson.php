@@ -2,7 +2,7 @@
 
 // in meters
 $buffer_distance = 400;
-$root_api_url = 'http://gtfs-api.groth-geodata.com/gtfs-api-beta/';
+$root_api_url = 'http://gtfs-api-beta.groth-geodata.com:8374/gtfs-api/';
 
 // array of feed-ids
 $feeds = array(
